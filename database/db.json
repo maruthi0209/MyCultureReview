@@ -1,0 +1,47 @@
+{
+    "film" : [
+        {
+            "name" : "The Avengers",
+            "release" : 2012,
+            "studio" : "Marvel Studios",
+            "director" : "Joss Whedon",
+            "producer" : "Kevin Feige",
+            "genre" : ["Superhero"],
+            "cast" : ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Stellan Skarsgård", "Samuel L. Jackson"]
+        }
+    ] ,
+
+    "videogames" : [
+        {
+            "name" : "Grand Theft Auto V",
+            "year" : 2013,
+            "studio" : "Rockstar North",
+            "publisher" : "Rockstar Games",
+            "platforms" : ["PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "Windows", "PlayStation 5", "Xbox Series X/S"],
+            "genre" : ["Action", "Adventure"]
+        }
+    ],
+
+    "tvshows" : [
+        {
+            "name" :"Stranger Things",
+            "year" : 2016,
+            "studio" : "21 Laps Entertainment",
+            "seasons" : 4,
+            "episodes" : 34,
+            "genre" : ["Science fiction", "Horror", "Mystery", "Drama"],
+            "network" : "Netflix"
+        }
+    ],
+
+    "musicalbums" : [
+        {
+            "name" : "Short n' Sweet",
+            "year" : 2024,
+            "artist" : "Sabrina Carpenter",
+            "genre" : ["pop"],
+            "label" : "Island Records",
+            "tracklisting" : ["Taste", "Please Please Please", "Good Graces", "Sharpest Tool", "Coincidence", "Bed Chem", "Espresso", "Dumb & Poetic", "Slim Pickins", "Juno", "Lie to Girls", "Don't Smile"]
+        }
+    ]
+}
